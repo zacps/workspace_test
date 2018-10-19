@@ -1,0 +1,7 @@
+[package]
+name = "subpackage"
+version = "0.1.0"
+authors = ["Zac Pullar-Strecker <zacmps@gmail.com>"]
+
+[dev-dependencies]
+rand = "*"

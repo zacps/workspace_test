@@ -1,0 +1,7 @@
+[package]
+name = "workspace_test"
+version = "0.1.0"
+authors = ["Zac Pullar-Strecker <zacmps@gmail.com>"]
+
+[dependencies]
+subpackage = { path = "subpackage" }

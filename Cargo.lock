@@ -1,0 +1,11 @@
+[[package]]
+name = "subpackage"
+version = "0.1.0"
+
+[[package]]
+name = "workspace_test"
+version = "0.1.0"
+dependencies = [
+ "subpackage 0.1.0",
+]
+
